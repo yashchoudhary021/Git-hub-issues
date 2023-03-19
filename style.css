@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1, h3{
+    margin-top: 40px;
+    text-align: center;
+}
+.list{
+    margin: 40px 520px;
+}
+li{
+    padding: 10px 10px;
+    width: 200px;
+    font-size: large;
+}
+
+#load_prev{
+    margin-left: 500px;
+    margin-right: 100px;
+}
+button{
+    font-size: large;
+    padding: 5px 14px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
